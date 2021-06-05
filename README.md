@@ -5,5 +5,5 @@ No entry :
 
 ![alt text](https://github.com/kelectro/Task-Planner-using-flask-/blob/main/intro.png )
 
-![alt text](https://github.com/kelectro/Task-Planner-using-flask-/blob/main/entry.png )
+![alt text](https://github.com/kelectro/Task-Planner-using-flask-/blob/main/entry1.png )
 
